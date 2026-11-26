@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanakatakusiii.github.io/keiba-ai/sitemap.xml
